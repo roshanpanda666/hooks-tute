@@ -24,7 +24,7 @@ nullbool(!bool)
       <input type="text" placeholder='type any thing' onChange={changetxt} />
       <h1>{befor}</h1>
       <h1>{noclick}</h1>
-      <button onClick={clickPlus}>increases</button>
+      <button onClick={clickPlus}>incress</button>
       {bool && <p>boolean</p>}    
     </div>
    

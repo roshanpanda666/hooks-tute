@@ -28,3 +28,8 @@ h1 {
   color: yellow;
 }
 
+.con{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
